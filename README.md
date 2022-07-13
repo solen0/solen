@@ -39,6 +39,6 @@
 </p>
 
 <!-- <p align="left">
-<img alt="solmp's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=solmp&show_icons=true&include_all_commits=true">
-<img alt="solmp's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=solmp">
+<img alt="solmp's github stats" height='230' src="https://github-readme-stats-solmp.vercel.app/api?username=solmp&show_icons=true&include_all_commits=true">
+<img alt="solmp's github stats" height='230' src="https://github-readme-stats-solmp.vercel.app/api/top-langs/?username=solmp">
 </p> -->
