@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/solmp">Sol</a> 👋</h1>
 
-#  My Tech Stack
+<!-- #  My Tech Stack -->
 
 <br/>
 <!-- <a href="https://github.com/solmp"><img src="https://cdn.jsdelivr.net/gh/solmp/imgurl/icon/202110171435495.gif" align="right" height="180"/></a> -->
